@@ -1,0 +1,92 @@
+{
+  "source": {
+    "filename": "2026-07_shiny_df.csv",
+    "relative_path": "2026-07_shiny_df.csv",
+    "size_bytes": 369866004,
+    "sha256": "27a788e6f694c8d63155abbef12bc10ba6ad263fae815be37268b33941730840"
+  },
+  "processing": {
+    "chunk_size": 200000,
+    "raw_rows_read": 4092440,
+    "victoria_rows_retained": 790585,
+    "columns_observed": [
+      "Unnamed: 0",
+      "state_name",
+      "sa4_code",
+      "sa4_name",
+      "anzsco4_code",
+      "anzsco4_name",
+      "date",
+      "nsc_emp"
+    ],
+    "columns_output": [
+      "source_row_id",
+      "state_name",
+      "sa4_code",
+      "sa4_name",
+      "anzsco4_code",
+      "anzsco4_name",
+      "date",
+      "nsc_emp"
+    ],
+    "cleaning_decisions": [
+      "Filtered state_name == VIC.",
+      "Renamed Unnamed: 0 to source_row_id; the field was retained.",
+      "Parsed date as datetime; invalid values were retained as null.",
+      "Parsed nsc_emp as numeric; invalid values were retained as null.",
+      "No duplicate, missing, zero, negative, or invalid rows were deleted."
+    ]
+  },
+  "raw_quality": {
+    "missing_values_by_column": {
+      "Unnamed: 0": 0,
+      "anzsco4_code": 0,
+      "anzsco4_name": 0,
+      "date": 0,
+      "nsc_emp": 0,
+      "sa4_code": 0,
+      "sa4_name": 0,
+      "state_name": 0
+    },
+    "rows_by_state": {
+      "ACT": 46505,
+      "NSW": 1302140,
+      "NT": 93010,
+      "QLD": 883595,
+      "SA": 325535,
+      "TAS": 186020,
+      "VIC": 790585,
+      "WA": 465050
+    }
+  },
+  "victoria_quality": {
+    "rows": 790585,
+    "columns": 8,
+    "sa4_count": 17,
+    "occupation_count": 355,
+    "date_count": 131,
+    "date_min": "2015-09-15",
+    "date_max": "2026-07-15",
+    "missing_values_by_column": {
+      "source_row_id": 0,
+      "state_name": 0,
+      "sa4_code": 0,
+      "sa4_name": 0,
+      "anzsco4_code": 0,
+      "anzsco4_name": 0,
+      "date": 0,
+      "nsc_emp": 0
+    },
+    "invalid_date_values": 0,
+    "invalid_nsc_emp_values": 0,
+    "negative_nsc_emp_values": 0,
+    "zero_nsc_emp_values": 0,
+    "fully_duplicated_rows_including_all_copies": 0,
+    "duplicate_logical_key_rows_including_all_copies": 0,
+    "missing_dataset_months": [],
+    "unexpected_dates": [],
+    "incomplete_sa4_occupation_series": 0,
+    "sa4_codes_with_multiple_names": 0,
+    "occupation_codes_with_multiple_names": 0
+  }
+}

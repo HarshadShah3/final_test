@@ -1,0 +1,50 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# VS Code local settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Employment raw and generated datasets
+Employment/raw/
+Employment/processed/
+Employment/2026-07_shiny_df.csv
+
+# Original downloaded Employment datasets
+Employment/*.xlsx
+Employment/*.pdf
+Employment/*.docx
+Employment/OSL*.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+coverage/
+
+# Local environment values (examples remain tracked)
+.env
+.env.*
+!.env.example
+
+# IDE and Windows system files
+.idea/
+Thumbs.db
+
+# Local Netlify folder
+.netlify
+
+# Local Vercel folder
+.vercel
+api/*.generated.js
+
+# Local GitHub upload instructions
+GITHUB_UPLOAD_GUIDE.md
+.env*

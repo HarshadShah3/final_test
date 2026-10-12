@@ -1,0 +1,81 @@
+lga_code_2021,lga_name_2021,hospital_count,general_practice_count,emergency_department_count,source_date,source_url,license
+LGA20110,Alpine,3,3,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20260,Ararat,2,1,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20570,Ballarat,3,30,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20660,Banyule,2,36,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20740,Bass Coast,2,7,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20830,Baw Baw,2,15,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA20910,Bayside (Vic.),4,25,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21010,Benalla,0,2,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21110,Boroondara,6,47,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21180,Brimbank,1,52,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21270,Buloke,5,5,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21370,Campaspe,4,8,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21450,Cardinia,1,31,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21610,Casey,3,72,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21670,Central Goldfields,1,3,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21750,Colac Otway,2,5,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21830,Corangamite,3,5,3,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA21890,Darebin,2,34,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22110,East Gippsland,2,15,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22170,Frankston,4,31,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22250,Gannawarra,1,3,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22310,Glen Eira,3,37,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22410,Glenelg,2,3,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22490,Golden Plains,0,4,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22620,Greater Bendigo,3,39,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22670,Greater Dandenong,2,64,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22750,Greater Geelong,3,77,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22830,Greater Shepparton,2,21,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22910,Hepburn,2,4,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA22980,Hindmarsh,4,4,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23110,Hobsons Bay,1,24,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23190,Horsham,1,4,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23270,Hume,2,62,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23350,Indigo,0,4,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23430,Kingston (Vic.),2,33,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23670,Knox,4,38,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23810,Latrobe (Vic.),2,21,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA23940,Loddon,2,3,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24130,Macedon Ranges,2,16,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24210,Manningham,1,36,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24250,Mansfield,1,2,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24330,Maribyrnong,3,31,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24410,Maroondah,2,27,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24600,Melbourne,7,46,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24650,Melton,0,25,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24780,Mildura,3,15,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24850,Mitchell,2,12,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24900,Moira,4,9,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA24970,Monash,5,54,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25060,Moonee Valley,0,35,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25150,Moorabool,1,10,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25250,Moreland,3,40,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25340,Mornington Peninsula,4,40,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25430,Mount Alexander,2,6,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25490,Moyne,1,2,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25620,Murrindindi,1,5,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25710,Nillumbik,0,8,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25810,Northern Grampians,2,3,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25900,Port Phillip,0,34,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA25990,Pyrenees,1,1,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26080,Queenscliffe,0,1,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26170,South Gippsland,3,7,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26260,Southern Grampians,3,3,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26350,Stonnington,3,39,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26430,Strathbogie,1,5,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26490,Surf Coast,2,9,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26610,Swan Hill,3,3,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26670,Towong,3,3,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26700,Wangaratta,2,8,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26730,Warrnambool,2,10,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26810,Wellington,4,7,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26890,West Wimmera,2,1,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA26980,Whitehorse,6,45,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27070,Whittlesea,2,56,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27170,Wodonga,2,11,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27260,Wyndham,4,49,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27350,Yarra,4,39,1,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27450,Yarra Ranges,2,38,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA27630,Yarriambiack,2,4,2,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0
+LGA29399,Unincorporated Vic,0,1,0,20250307,https://pid.geoscience.gov.au/dataset/ga/149331,CC BY 4.0

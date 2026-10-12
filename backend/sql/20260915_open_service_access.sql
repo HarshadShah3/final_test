@@ -1,0 +1,82 @@
+CREATE TABLE IF NOT EXISTS stg_health_facilities_open_2025 (
+  service_id VARCHAR(40) NOT NULL,
+  facility_name VARCHAR(255) NOT NULL,
+  facility_class VARCHAR(40) NOT NULL,
+  service_type VARCHAR(255) NOT NULL,
+  is_emergency_department TINYINT(1) NOT NULL,
+  address VARCHAR(255) NOT NULL,
+  suburb VARCHAR(120) NOT NULL,
+  postcode VARCHAR(10) NOT NULL,
+  longitude DECIMAL(10, 7) NOT NULL,
+  latitude DECIMAL(10, 7) NOT NULL,
+  lga_code_2021 CHAR(8) NOT NULL,
+  lga_name_2021 VARCHAR(120) NOT NULL,
+  source_date DATE NOT NULL,
+  source_url VARCHAR(500) NOT NULL,
+  license VARCHAR(50) NOT NULL,
+  loaded_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (service_id),
+  KEY idx_health_facility_lga (lga_code_2021),
+  KEY idx_health_facility_class (facility_class),
+  CONSTRAINT chk_health_facility_license CHECK (license = 'CC BY 4.0')
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE IF NOT EXISTS stg_health_services_lga_2025 (
+  lga_code_2021 CHAR(8) NOT NULL,
+  lga_name_2021 VARCHAR(120) NOT NULL,
+  hospital_count SMALLINT UNSIGNED NOT NULL,
+  general_practice_count SMALLINT UNSIGNED NOT NULL,
+  emergency_department_count SMALLINT UNSIGNED NOT NULL,
+  source_date DATE NOT NULL,
+  source_url VARCHAR(500) NOT NULL,
+  license VARCHAR(50) NOT NULL,
+  loaded_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (lga_code_2021),
+  CONSTRAINT chk_health_lga_license CHECK (license = 'CC BY 4.0')
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE IF NOT EXISTS stg_health_ed_median_time_2024_25 (
+  reporting_unit_code VARCHAR(20) NOT NULL,
+  hospital_name VARCHAR(255) NOT NULL,
+  latitude DECIMAL(10, 7) NOT NULL,
+  longitude DECIMAL(10, 7) NOT NULL,
+  lga_code_2021 CHAR(8) NOT NULL,
+  lga_name_2021 VARCHAR(120) NOT NULL,
+  median_time_in_ed_minutes SMALLINT UNSIGNED NOT NULL,
+  reporting_start_date DATE NOT NULL,
+  reporting_end_date DATE NOT NULL,
+  measure_code VARCHAR(20) NOT NULL,
+  reported_measure_code VARCHAR(30) NOT NULL,
+  source_data_version VARCHAR(30) NOT NULL,
+  source_url VARCHAR(500) NOT NULL,
+  license VARCHAR(50) NOT NULL,
+  loaded_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (reporting_unit_code),
+  KEY idx_ed_median_lga (lga_code_2021),
+  CONSTRAINT chk_ed_median_license CHECK (license = 'CC BY 4.0')
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE IF NOT EXISTS stg_transport_access_lga_2026 (
+  lga_code_2021 CHAR(8) NOT NULL,
+  lga_name_2021 VARCHAR(120) NOT NULL,
+  representative_weekday DATE NOT NULL,
+  active_stop_count INT UNSIGNED NOT NULL,
+  weekday_scheduled_stop_calls INT UNSIGNED NOT NULL,
+  weekday_stop_calls_per_active_stop DECIMAL(10, 1) NULL,
+  regional_train_calls INT UNSIGNED NOT NULL,
+  metropolitan_train_calls INT UNSIGNED NOT NULL,
+  tram_calls INT UNSIGNED NOT NULL,
+  bus_calls INT UNSIGNED NOT NULL,
+  regional_coach_calls INT UNSIGNED NOT NULL,
+  regional_bus_calls INT UNSIGNED NOT NULL,
+  interstate_calls INT UNSIGNED NOT NULL,
+  skybus_calls INT UNSIGNED NOT NULL,
+  train_station_count SMALLINT UNSIGNED NOT NULL,
+  has_rail_access TINYINT(1) NOT NULL,
+  direct_southern_cross_service TINYINT(1) NOT NULL,
+  source_url VARCHAR(500) NOT NULL,
+  license VARCHAR(50) NOT NULL,
+  loaded_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (lga_code_2021),
+  CONSTRAINT chk_transport_license CHECK (license = 'CC BY 4.0')
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;

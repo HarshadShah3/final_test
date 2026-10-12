@@ -1,0 +1,41 @@
+reporting_unit_code,hospital_name,latitude,longitude,lga_code_2021,lga_name_2021,median_time_in_ed_minutes,reporting_start_date,reporting_end_date,measure_code,reported_measure_code,source_data_version,source_url,license
+H0255,Ballarat Health Services [Base Hospital],-37.5596580,143.8470410,LGA20570,Ballarat,271,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0359,Austin Hospital [Heidelberg],-37.7563550,145.0602360,LGA20660,Banyule,281,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0362,Mercy Hospital for Women,-37.7560750,145.0610080,LGA20660,Banyule,158,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0320,Bass Coast Health,-38.6087470,145.5809060,LGA20740,Bass Coast,213,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0319,West Gippsland Healthcare Group [Warragul],-38.1730090,145.9268040,LGA20830,Baw Baw,215,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0344,Sandringham Hospital,-37.9610490,145.0181570,LGA20910,Bayside (Vic.),175,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0373,Sunshine Hospital,-37.7591790,144.8164770,LGA21180,Brimbank,238,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0284,Echuca Regional Health,-36.1381860,144.7483690,LGA21370,Campaspe,156,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0353,Casey Hospital,-38.0453250,145.3471810,LGA21610,Casey,264,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0318,Bairnsdale Regional Health Service,-37.8308140,147.6079050,LGA22110,East Gippsland,182,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0350,Frankston Hospital,-38.1507910,145.1284280,LGA22170,Frankston,272,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0272,The Bendigo Hospital,-36.7487270,144.2833720,LGA22620,Greater Bendigo,252,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0348,Dandenong Hospital,-37.9764590,145.2185290,LGA22670,Greater Dandenong,265,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0238,University Hospital Geelong,-38.1515330,144.3649640,LGA22750,Greater Geelong,270,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0298,Goulburn Valley Health [Shepparton],-36.3636250,145.4049110,LGA22830,Greater Shepparton,250,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0375,Williamstown Hospital,-37.8635760,144.8923390,LGA23110,Hobsons Bay,141,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0257,Wimmera Base Hospital [Horsham],-36.7124410,142.2085220,LGA23190,Horsham,198,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0333,Angliss Hospital,-37.8986630,145.3141660,LGA23670,Knox,223,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0326,Latrobe Regional Hospital [Traralgon],-38.2184750,146.4713350,LGA23810,Latrobe (Vic.),302,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0363,Western Hospital [Footscray],-37.7922980,144.8871910,LGA24330,Maribyrnong,326,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0332,Maroondah Hospital [East Ringwood],-37.8068840,145.2545350,LGA24410,Maroondah,277,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0364,Royal Children's Hospital [Parkville],-37.7949970,144.9508590,LGA24600,Melbourne,167,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0371,Royal Melbourne Hospital [City Campus],-37.7992590,144.9568640,LGA24600,Melbourne,226,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0366,Royal Women's Hospital [Parkville],-37.7987720,144.9548250,LGA24600,Melbourne,147,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0358,The Alfred,-37.8460870,144.9819370,LGA24600,Melbourne,211,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0367,The Royal Victorian Eye & Ear Hospital,-37.8089780,144.9762450,LGA24600,Melbourne,208,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0286,Mildura Base Hospital,-34.1856340,142.1433480,LGA24780,Mildura,230,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0331,Monash Medical Centre [Clayton],-37.9275697,145.1587291,LGA24970,Monash,247,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H1054,Victorian Heart Hospital,-37.9125400,145.1398400,LGA24970,Monash,177,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0343,Rosebud Hospital,-38.3621680,144.8848990,LGA25340,Mornington Peninsula,215,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0233,Western District Health Service [Hamilton],-37.7364950,142.0306060,LGA26260,Southern Grampians,128,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0280,Swan Hill District Health [Swan Hill],-35.3405880,143.5565140,LGA26610,Swan Hill,162,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0300,Northeast Health Wangaratta,-36.3540350,146.3138890,LGA26700,Wangaratta,214,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0241,South West Healthcare [Warrnambool],-38.3800850,142.4729770,LGA26730,Warrnambool,220,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0323,Central Gippsland Health Service [Sale],-38.1084080,147.0806370,LGA26810,Wellington,209,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0330,Box Hill Hospital,-37.8136820,145.1190940,LGA26980,Whitehorse,290,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0368,The Northern Hospital [Epping],-37.6534170,145.0143810,LGA27070,Whittlesea,262,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0302,Albury Wodonga Health [Wodonga Campus],-36.1317910,146.8794170,LGA27170,Wodonga,181,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0369,Werribee Mercy Hospital,-37.8865870,144.6986210,LGA27260,Wyndham,311,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0
+H0374,St Vincent's Hospital [Melbourne],-37.8065450,144.9752310,LGA27350,Yarra,230,2024-07-01,2025-06-30,MYH0036,MYH-RM0300,2026052802,https://myhospitalsapi.aihw.gov.au/,CC BY 4.0

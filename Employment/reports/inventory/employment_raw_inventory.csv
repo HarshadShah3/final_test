@@ -1,0 +1,5 @@
+record_type,path,parent_archive,size_bytes,sha256,zip_crc32,zip_compressed_size
+raw_file,raw/nero/2026-07_nero.zip,,48310857,ca76ebd6912fa512cb47a08a70431aa159a2bb62c9af19e12423361d54c0210b,,
+zip_member,2026-07_nero/,raw/nero/2026-07_nero.zip,0,,00000000,0
+zip_member,2026-07_nero/2026-07_shiny_df.csv,raw/nero/2026-07_nero.zip,369866004,,7a82cf73,33499516
+zip_member,2026-07_nero/2026-07_shiny_df.rds,raw/nero/2026-07_nero.zip,16312710,,992e9c91,14810733

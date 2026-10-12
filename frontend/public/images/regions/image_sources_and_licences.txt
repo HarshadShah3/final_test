@@ -1,0 +1,735 @@
+﻿Victoria Region Area Images - Current Consolidated Inventory
+Generated: 2026-09-03 13:52:09 +10:00
+This file describes only the image files currently present in this folder.
+SOURCE STATUS VERIFIED means a saved source/licence record could be matched to the current regional filename.
+SOURCE STATUS NEEDS RE-VERIFICATION means an earlier interrupted batch lost its source metadata; no URL has been invented.
+SUMMARY: 56 current images; 56 verified source records; 0 records need re-verification.
+
+REGION: Gannawarra
+LOCAL FILE: gannawarra.jpg
+DIMENSIONS: 1920 x 1239 px
+FILE SIZE: 381170 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Shire of Gannawarra Welcome Sign
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=43067477
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/e9/Shire_of_Gannawarra_Welcome_Sign.JPG
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e9/Shire_of_Gannawarra_Welcome_Sign.JPG
+AUTHOR: Mattinbgn (talk Â· contribs)
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/3.0/
+--------------------------------------------------------------------------------
+REGION: Mansfield
+LOCAL FILE: mansfield.jpg
+DIMENSIONS: 1920 x 1437 px
+FILE SIZE: 753385 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Mansfield Victoria aerial.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Mansfield_Victoria_aerial.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Mansfield_Victoria_aerial.jpg/1920px-Mansfield_V
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/7/7b/Mansfield_Victoria_aerial.jpg?utm_source=commons.wiki
+AUTHOR: Graeme Bartlett
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Ballarat
+LOCAL FILE: ballarat.jpg
+DIMENSIONS: 1280 x 853 px
+FILE SIZE: 147383 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Sunset at Lake Wendouree. Ballarat.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Sunset_at_Lake_Wendouree._Ballarat.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sunset_at_Lake_Wendouree._Ballarat.jpg/1280px-Sunset_at_Lake_Wendouree._Ballarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e9/Sunset_at_Lake_Wendouree._Ballarat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Ed Dunens
+LICENCE: CC BY 2.0
+LICENCE URL: https://creativecommons.org/licenses/by/2.0
+--------------------------------------------------------------------------------
+REGION: Northern Grampians
+LOCAL FILE: northern-grampians.jpg
+DIMENSIONS: 1920 x 1272 px
+FILE SIZE: 543905 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Prost.hirtula-atlas-1
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=46314971
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/e8/Prost.hirtula-atlas-1.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e8/Prost.hirtula-atlas-1.jpg
+AUTHOR: Maree Goods - Subido por Philmarin
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/2.5/
+--------------------------------------------------------------------------------
+REGION: Baw Baw
+LOCAL FILE: baw-baw.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 430233 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Baw-baw-view-gippsland.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Baw-baw-view-gippsland.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Baw-baw-view-gippsland.jpg/1920px-Baw-baw-view-gippsland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/d/d6/Baw-baw-view-gippsland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Alex Cohen
+LICENCE: CC BY-SA 3.0
+LICENCE URL: http://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Ararat
+LOCAL FILE: ararat.jpg
+DIMENSIONS: 1200 x 567 px
+FILE SIZE: 113725 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Ararat from One Tree Hill lookout.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Ararat_from_One_Tree_Hill_lookout.jpg
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/4/48/Ararat_from_One_Tree_Hill_lookout.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/4/48/Ararat_from_One_Tree_Hill_lookout.jpg
+AUTHOR: WalkingMelbourne
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Buloke
+LOCAL FILE: buloke.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 907047 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Farm land outside Ninda township 2014-05-15.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Farm_land_outside_Ninda_township_2014-05-15.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Farm_land_outside_Ninda_township_2014-05-15.jpg/
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/87/Farm_land_outside_Ninda_township_2014-05-15.jpg?utm_s
+AUTHOR: Tangerineduel
+LICENCE: CC BY-SA 4.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0
+--------------------------------------------------------------------------------
+REGION: Strathbogie
+LOCAL FILE: strathbogie.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 742811 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Sheean Creek Valley from FernHills Rd Corner - panoramio.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Sheean_Creek_Valley_from_FernHills_Rd_Corner_-_panoramio.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Sheean_Creek_Valley_from_FernHills_Rd_Corner_-_p
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/2/24/Sheean_Creek_Valley_from_FernHills_Rd_Corner_-_panora
+AUTHOR: Stephen Digby
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Cardinia
+LOCAL FILE: cardinia.jpg
+DIMENSIONS: 1920 x 1437 px
+FILE SIZE: 813048 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Cardinia Reservoir aerial.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Cardinia_Reservoir_aerial.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Cardinia_Reservoir_aerial.jpg/1920px-Cardinia_Reservoir_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Cardinia_Reservoir_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Graeme Bartlett
+LICENCE: CC BY-SA 4.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0
+--------------------------------------------------------------------------------
+REGION: Casey
+LOCAL FILE: casey.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 913449 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:City of Casey .jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=69577257
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/City_of_Casey_.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/f/f5/City_of_Casey_.jpg
+AUTHOR: Milo3334
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0/
+--------------------------------------------------------------------------------
+REGION: Alpine
+LOCAL FILE: alpine.jpg
+DIMENSIONS: 1920 x 1600 px
+FILE SIZE: 950279 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:Grevillea willisii.jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=23375129
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/1/13/Grevillea_willisii.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/1/13/Grevillea_willisii.jpg
+AUTHOR: Melburnian
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Central Goldfields
+LOCAL FILE: central-goldfields.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 521134 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:MaryboroughMainStreet2.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:MaryboroughMainStreet2.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/MaryboroughMainStreet2.JPG/1920px-MaryboroughMainStreet2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/1/16/MaryboroughMainStreet2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 3.0
+LICENCE URL: http://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Benalla
+LOCAL FILE: benalla.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 336798 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:BenallaArtGallery.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:BenallaArtGallery.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/BenallaArtGallery.JPG/1920px-BenallaArtGallery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/d/dc/BenallaArtGallery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 3.0
+LICENCE URL: http://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: East Gippsland
+LOCAL FILE: east-gippsland.jpg
+DIMENSIONS: 1920 x 1951 px
+FILE SIZE: 504128 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Nectarine Fruit Development
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=3766525
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/5/5e/Nectarine_Fruit_Development.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/5/5e/Nectarine_Fruit_Development.jpg
+AUTHOR: jjron
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Corangamite
+LOCAL FILE: corangamite.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 570730 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:The Twelve Apostles Victoria Australia 2006.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:The_Twelve_Apostles_Victoria_Australia_2006.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_Twelve_Apostles_Victoria_Australia_2006.JPG/1920px-The_Twelve_Apostles_Victoria_Australia_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/87/The_Twelve_Apostles_Victoria_Australia_2006.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Thomas ENGUEHARD
+LICENCE: CC BY 3.0
+LICENCE URL: https://creativecommons.org/licenses/by/3.0
+--------------------------------------------------------------------------------
+REGION: Murrindindi
+LOCAL FILE: murrindindi.jpg
+DIMENSIONS: 1920 x 1285 px
+FILE SIZE: 444544 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Yea VIC Post Office 1
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=9815901
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/Yea_VIC_Post_Office_1.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/Yea_VIC_Post_Office_1.jpg
+AUTHOR: Alpha from Melbourne, Australia
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/2.0/
+--------------------------------------------------------------------------------
+REGION: Southern Grampians
+LOCAL FILE: southern-grampians.jpg
+DIMENSIONS: 1024 x 768 px
+FILE SIZE: 340507 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Hamilton
+SOURCE PAGE: https://www.flickr.com/photos/31190896@N08/5308784064
+DOWNLOAD URL: https://live.staticflickr.com/5002/5308784064_70687c1793_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/5002/5308784064_70687c1793_b.jpg
+AUTHOR: eGuide Travel
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Greater Bendigo
+LOCAL FILE: greater-bendigo.jpg
+DIMENSIONS: 1024 x 768 px
+FILE SIZE: 160522 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Koch Residence, 1870, 194 Eaglehawk Rd, Long Gully
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=147816639
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/5/50/Koch_Residence%2C_1870%2C_194_Eaglehawk_Rd%2C_Long_Gully.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/5/50/Koch_Residence%2C_1870%2C_194_Eaglehawk_Rd%2C_Long_Gully.jpg
+AUTHOR: GSV
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Greater Geelong
+LOCAL FILE: greater-geelong.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 566749 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Geelong Waterfront.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Geelong_Waterfront.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Geelong_Waterfront.jpg/1920px-Geelong_Waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e8/Geelong_Waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Dtfman
+LICENCE: CC0
+LICENCE URL: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+--------------------------------------------------------------------------------
+REGION: Greater Shepparton
+LOCAL FILE: greater-shepparton.jpg
+DIMENSIONS: 1024 x 683 px
+FILE SIZE: 213327 bytes
+SOURCE STATUS: VERIFIED BY SHA-256 MATCH
+IMAGE TITLE: Goulburn River, Shepparton
+SOURCE PAGE: https://www.flickr.com/photos/100780486@N02/15904846501
+DOWNLOAD URL: https://live.staticflickr.com/8659/15904846501_33f14b4634_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/8659/15904846501_33f14b4634_b.jpg
+AUTHOR: mertie.
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Hepburn
+LOCAL FILE: hepburn.jpg
+DIMENSIONS: 1920 x 1343 px
+FILE SIZE: 218864 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Hepburn Wind Farm 2011
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=16949903
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/Hepburn_Wind_Farm_2011.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/Hepburn_Wind_Farm_2011.jpg
+AUTHOR: Elekhh
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Hindmarsh
+LOCAL FILE: hindmarsh.jpg
+DIMENSIONS: 1920 x 1447 px
+FILE SIZE: 561632 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: <div class='fn'> John Reid &amp; Sons Ltd, Victoria Tannery Bark Mills</div>
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=86631624
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/6/68/John_Reid_%26_Sons_Ltd%2C_Victoria_Tannery_Bark_Mills%28GN00897%29.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/6/68/John_Reid_%26_Sons_Ltd%2C_Victoria_Tannery_Bark_Mills%28GN00897%29.jpg
+AUTHOR: State Government Photographer
+LICENCE: CC CC0
+LICENCE URL: https://creativecommons.org/publicdomain/zero/1.0/deed.en/
+--------------------------------------------------------------------------------
+REGION: Moyne
+LOCAL FILE: moyne.jpg
+DIMENSIONS: 1200 x 893 px
+FILE SIZE: 73092 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Port fairy lighthouse.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Port_fairy_lighthouse.jpg
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Port_fairy_lighthouse.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/1/1d/Port_fairy_lighthouse.jpg
+AUTHOR: Farsouth
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Hume
+LOCAL FILE: hume.jpg
+DIMENSIONS: 1280 x 960 px
+FILE SIZE: 618759 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Organ Pipes Geological Feature Melbourne Australia.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Organ_Pipes_Geological_Feature_Melbourne_Australia.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Organ_Pipes_Geological_Feature_Melbourne_Australia.JPG/1280px-Organ_Pipes_Geological_Feature_Melbourne_Australia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/7/76/Organ_Pipes_Geological_Feature_Melbourne_Australia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Nick carson at English Wikipedia
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Indigo
+LOCAL FILE: indigo.jpg
+DIMENSIONS: 1920 x 1080 px
+FILE SIZE: 375592 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Indigofera australis (6285509653)
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=38232380
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Indigofera_australis_%286285509653%29.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e1/Indigofera_australis_%286285509653%29.jpg
+AUTHOR: John Tann from Sydney, Australia
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Latrobe
+LOCAL FILE: latrobe.jpg
+DIMENSIONS: 1024 x 683 px
+FILE SIZE: 291742 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Tooronga Falls - Noojee, Victoria, Australia
+SOURCE PAGE: https://www.flickr.com/photos/25287507@N02/15069688970
+DOWNLOAD URL: https://live.staticflickr.com/3847/15069688970_3086aa750c_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/3847/15069688970_3086aa750c_b.jpg
+AUTHOR: Rexness
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Loddon
+LOCAL FILE: loddon.jpg
+DIMENSIONS: 1200 x 803 px
+FILE SIZE: 97790 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:BoortLake.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:BoortLake.JPG
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/BoortLake.JPG
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/c/cd/BoortLake.JPG
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Macedon Ranges
+LOCAL FILE: macedon-ranges.jpg
+DIMENSIONS: 1024 x 768 px
+FILE SIZE: 165848 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:Discinella terrestris 249486.jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=23761383
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/2/2b/Discinella_terrestris_249486.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/2/2b/Discinella_terrestris_249486.jpg
+AUTHOR: TimmiT
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Glenelg
+LOCAL FILE: glenelg.jpg
+DIMENSIONS: 960 x 589 px
+FILE SIZE: 118658 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:PortlandBulkHandlingPort.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:PortlandBulkHandlingPort.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/PortlandBulkHandlingPort.JPG/960px-PortlandBulkHandlingPort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/c/c9/PortlandBulkHandlingPort.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 4.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0
+--------------------------------------------------------------------------------
+REGION: Melton
+LOCAL FILE: melton.jpg
+DIMENSIONS: 850 x 567 px
+FILE SIZE: 405568 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:Tabcorp Park Raceway, Cobblebank.jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=57601381
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/Tabcorp_Park_Raceway%2C_Cobblebank.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/a/a8/Tabcorp_Park_Raceway%2C_Cobblebank.jpg
+AUTHOR: Kiwi222222
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0/
+--------------------------------------------------------------------------------
+REGION: Mildura
+LOCAL FILE: mildura.jpg
+DIMENSIONS: 1200 x 863 px
+FILE SIZE: 228252 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Murray River Sunset - Mildura Victoria - South Australia.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Murray_River_Sunset_-_Mildura_Victoria_-_South_Australia.jpg
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/Murray_River_Sunset_-_Mildura_Victoria_-_South_Australia.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/ed/Murray_River_Sunset_-_Mildura_Victoria_-_South_Australia.jpg
+AUTHOR: Jacqui Barker
+LICENCE: CC BY 2.0
+LICENCE URL: https://creativecommons.org/licenses/by/2.0
+--------------------------------------------------------------------------------
+REGION: Mitchell
+LOCAL FILE: mitchell.jpg
+DIMENSIONS: 1600 x 1071 px
+FILE SIZE: 564993 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Seymour Goulburn River.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Seymour_Goulburn_River.JPG
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/e/e0/Seymour_Goulburn_River.JPG
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e0/Seymour_Goulburn_River.JPG
+AUTHOR: Mattinbgn
+LICENCE: CC BY 3.0
+LICENCE URL: https://creativecommons.org/licenses/by/3.0
+--------------------------------------------------------------------------------
+REGION: Horsham
+LOCAL FILE: horsham.jpg
+DIMENSIONS: 1920 x 720 px
+FILE SIZE: 651700 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: McKenzie Falls (Upper Tier) Panorama, Grampians, Victoria Australia (4843054645)
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=64492161
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/0/08/McKenzie_Falls_%28Upper_Tier%29_Panorama%2C_Grampians%2C_Victoria_Australia_%284843054645%29.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/0/08/McKenzie_Falls_%28Upper_Tier%29_Panorama%2C_Grampians%2C_Victoria_Australia_%284843054645%29.jpg
+AUTHOR: Rexness from Melbourne, Australia
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/2.0/
+--------------------------------------------------------------------------------
+REGION: Swan Hill
+LOCAL FILE: swan-hill.jpg
+DIMENSIONS: 960 x 720 px
+FILE SIZE: 248441 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:SwanHill from 1000 feet.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:SwanHill_from_1000_feet.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/SwanHill_from_1000_feet.jpg/960px-SwanHill_from_1000_feet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/2/25/SwanHill_from_1000_feet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Scott Davis
+LICENCE: CC BY 2.5
+LICENCE URL: https://creativecommons.org/licenses/by/2.5
+--------------------------------------------------------------------------------
+REGION: Mount Alexander
+LOCAL FILE: mount-alexander.jpg
+DIMENSIONS: 1023 x 682 px
+FILE SIZE: 329967 bytes
+SOURCE STATUS: VERIFIED BY SHA-256 MATCH
+IMAGE TITLE: MAG - Old Castlemaine Gaol
+SOURCE PAGE: https://www.flickr.com/photos/65743735@N06/7837889682
+DOWNLOAD URL: https://live.staticflickr.com/7277/7837889682_3da141864d_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/7277/7837889682_3da141864d_b.jpg
+AUTHOR: Melody Ayres-Griffiths
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Colac Otway
+LOCAL FILE: colac-otway.jpg
+DIMENSIONS: 1920 x 1218 px
+FILE SIZE: 647475 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Apollo Bay Harbour (8653735055)
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=67246421
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/d/dd/Apollo_Bay_Harbour_%288653735055%29.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/d/dd/Apollo_Bay_Harbour_%288653735055%29.jpg
+AUTHOR: Bernard Spragg. NZ from Christchurch, New Zealand
+LICENCE: CC CC0
+LICENCE URL: https://creativecommons.org/publicdomain/zero/1.0/deed.en/
+--------------------------------------------------------------------------------
+REGION: Golden Plains
+LOCAL FILE: golden-plains.jpg
+DIMENSIONS: 960 x 720 px
+FILE SIZE: 316959 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Wallinduc Church.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Wallinduc_Church.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Wallinduc_Church.jpg/960px-Wallinduc_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/f/f4/Wallinduc_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: 1geel0ng1
+LICENCE: CC BY 4.0
+LICENCE URL: https://creativecommons.org/licenses/by/4.0
+--------------------------------------------------------------------------------
+REGION: Nillumbik
+LOCAL FILE: nillumbik.jpg
+DIMENSIONS: 1280 x 854 px
+FILE SIZE: 300946 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:SunsetatSugarloafReservoir.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:SunsetatSugarloafReservoir.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/SunsetatSugarloafReservoir.jpg/1280px-SunsetatSugarloafReservoir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/8e/SunsetatSugarloafReservoir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Leonjony
+LICENCE: CC BY-SA 4.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0
+--------------------------------------------------------------------------------
+REGION: Wangaratta
+LOCAL FILE: wangaratta.jpg
+DIMENSIONS: 1920 x 1308 px
+FILE SIZE: 518418 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Yarrunga Vincent Road.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Yarrunga_Vincent_Road.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Yarrunga_Vincent_Road.JPG/1920px-Yarrunga_Vincen
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/b/b5/Yarrunga_Vincent_Road.JPG?utm_source=commons.wikimedi
+AUTHOR: Mattinbgn ( talk · contribs )
+LICENCE: CC BY 3.0
+LICENCE URL: https://creativecommons.org/licenses/by/3.0
+--------------------------------------------------------------------------------
+REGION: Pyrenees
+LOCAL FILE: pyrenees.jpg
+DIMENSIONS: 1920 x 1285 px
+FILE SIZE: 919081 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:AvocaRiver.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:AvocaRiver.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/AvocaRiver.JPG/1920px-AvocaRiver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/8d/AvocaRiver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Queenscliffe
+LOCAL FILE: queenscliffe.jpg
+DIMENSIONS: 1024 x 232 px
+FILE SIZE: 83763 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Point Lonsdale Beach
+SOURCE PAGE: https://www.flickr.com/photos/40201951@N00/39630090605
+DOWNLOAD URL: https://live.staticflickr.com/4649/39630090605_e5f569aea4_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/4649/39630090605_e5f569aea4_b.jpg
+AUTHOR: NatalieTracy
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/2.0/
+--------------------------------------------------------------------------------
+REGION: Moira
+LOCAL FILE: moira.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 447415 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:ForeshoreYarrawonga.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:ForeshoreYarrawonga.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/ForeshoreYarrawonga.JPG/1920px-ForeshoreYarrawonga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/ef/ForeshoreYarrawonga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn at English Wikipedia
+LICENCE: Public domain
+LICENCE URL: 
+--------------------------------------------------------------------------------
+REGION: South Gippsland
+LOCAL FILE: south-gippsland.jpg
+DIMENSIONS: 1024 x 576 px
+FILE SIZE: 246291 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: RIMG2579 Agnes Falls, South Gippsland, Victoria (Australia) 03
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=79409768
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/4/43/RIMG2579_Agnes_Falls%2C_South_Gippsland%2C_Victoria_%28Australia%29_03.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/4/43/RIMG2579_Agnes_Falls%2C_South_Gippsland%2C_Victoria_%28Australia%29_03.jpg
+AUTHOR: AmarooPark
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0/
+--------------------------------------------------------------------------------
+REGION: Warrnambool
+LOCAL FILE: warrnambool.jpg
+DIMENSIONS: 1600 x 1200 px
+FILE SIZE: 337999 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Black Rock Coastline Warrnambool - panoramio.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Black_Rock_Coastline_Warrnambool_-_panoramio.jpg
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/4/43/Black_Rock_Coastline_Warrnambool_-_panoramio.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/4/43/Black_Rock_Coastline_Warrnambool_-_panoramio.jpg
+AUTHOR: Lobster1
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Campaspe
+LOCAL FILE: campaspe.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 704341 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:HV McKay Harvester at Campaspe Run Rural Discovery Centre, Elmore, Victoria, Australia.jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=11918810
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/8/85/HV_McKay_Harvester_at_Campaspe_Run_Rural_Discovery_Centre%2C_Elmore%2C_Victoria%2C_Australia.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/85/HV_McKay_Harvester_at_Campaspe_Run_Rural_Discovery_Centre%2C_Elmore%2C_Victoria%2C_Australia.jpg
+AUTHOR: GTHO
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Surf Coast
+LOCAL FILE: surf-coast.jpg
+DIMENSIONS: 1280 x 960 px
+FILE SIZE: 242940 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Great Ocean Road between Kennett River and Aireys Inlet.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Great_Ocean_Road_between_Kennett_River_and_Aireys_Inlet.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Great_Ocean_Road_between_Kennett_River_and_Aireys_Inlet.jpg/1280px-Great_Ocean_Road_between_Kennett_River_and_Aireys_Inlet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/d/df/Great_Ocean_Road_between_Kennett_River_and_Aireys_Inlet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: amanderson2
+LICENCE: CC BY 2.0
+LICENCE URL: https://creativecommons.org/licenses/by/2.0
+--------------------------------------------------------------------------------
+REGION: Towong
+LOCAL FILE: towong.jpg
+DIMENSIONS: 1280 x 958 px
+FILE SIZE: 375964 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Corryong aerial.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Corryong_aerial.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Corryong_aerial.jpg/1280px-Corryong_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/b/b0/Corryong_aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Graeme Bartlett
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Moorabool
+LOCAL FILE: moorabool.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 627378 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:BacchusMarshLerderdergRiver.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:BacchusMarshLerderdergRiver.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/BacchusMarshLerderdergRiver.JPG/1920px-BacchusMarshLerderdergRiver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/e/e2/BacchusMarshLerderdergRiver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Mattinbgn
+LICENCE: CC BY-SA 3.0
+LICENCE URL: http://creativecommons.org/licenses/by-sa/3.0/
+--------------------------------------------------------------------------------
+REGION: Bass Coast
+LOCAL FILE: bass-coast.jpg
+DIMENSIONS: 1280 x 960 px
+FILE SIZE: 283410 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Westcoast The Nobbies Phillip Island Victoria.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Westcoast_The_Nobbies_Phillip_Island_Victoria.JPG
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Westcoast_The_Nobbies_Phillip_Island_Victoria.JPG/1280px-Westcoast_The_Nobbies_Phillip_Island_Victoria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/7/72/Westcoast_The_Nobbies_Phillip_Island_Victoria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Cookaa
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------
+REGION: Wodonga
+LOCAL FILE: wodonga.jpg
+DIMENSIONS: 1920 x 1277 px
+FILE SIZE: 550600 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Lake Hume and Killara from Huon Hill Lookout, Wodonga Victoria.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Lake_Hume_and_Killara_from_Huon_Hill_Lookout,_Wodonga_Victoria.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Lake_Hume_and_Killara_from_Huon_Hill_Lookout%2C_Wodonga_Victoria.jpg/1920px-Lake_Hume_and_Killara_from_Huon_Hill_Lookout%2C_Wodonga_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/4/41/Lake_Hume_and_Killara_from_Huon_Hill_Lookout%2C_Wodonga_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: Thennicke
+LICENCE: CC BY-SA 4.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0
+--------------------------------------------------------------------------------
+REGION: West Wimmera
+LOCAL FILE: west-wimmera.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 1084308 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Edenhope. Metal grapes and vine leaves around the Lutheran Church sign. Built in 1916 as an Anglican Church but now the Lutheran.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Edenhope._Metal_grapes_and_vine_leaves_around_the_Lutheran_Church_sign._Built_in_1916_as_an_Anglican_Church_but_now_the_Lutheran.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Edenhope._Metal_grapes_and_vine_leaves_around_the_Lutheran_Church_sign._Built_in_1916_as_an_Anglican_Church_but_now_the_Lutheran.jpg/1920px-Edenhope._Metal_grapes_and_vine_leaves_around_the_Lutheran_Church_sign._Built_in_1916_as_an_Anglican_Church_but_now_the_Lutheran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/8/86/Edenhope._Metal_grapes_and_vine_leaves_around_the_Lutheran_Church_sign._Built_in_1916_as_an_Anglican_Church_but_now_the_Lutheran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: denisbin
+LICENCE: CC BY-SA 2.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/2.0
+--------------------------------------------------------------------------------
+REGION: Whittlesea
+LOCAL FILE: whittlesea.jpg
+DIMENSIONS: 1920 x 1440 px
+FILE SIZE: 682477 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: File:Funfields Whittlesea Entry 2017.jpg
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=65122372
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/1/1a/Funfields_Whittlesea_Entry_2017.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/1/1a/Funfields_Whittlesea_Entry_2017.jpg
+AUTHOR: Lakeyboy
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0/
+--------------------------------------------------------------------------------
+REGION: Wellington
+LOCAL FILE: wellington.jpg
+DIMENSIONS: 1280 x 960 px
+FILE SIZE: 234498 bytes
+SOURCE STATUS: VERIFIED
+IMAGE TITLE: File:Ninety Mile Beach Victoria Western end.jpg
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Ninety_Mile_Beach_Victoria_Western_end.jpg
+DOWNLOAD URL: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Ninety_Mile_Beach_Victoria_Western_end.jpg/1280px-Ninety_Mile_Beach_Victoria_Western_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/d/d5/Ninety_Mile_Beach_Victoria_Western_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+AUTHOR: BB Aussie Fab
+LICENCE: CC0
+LICENCE URL: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+--------------------------------------------------------------------------------
+REGION: Wyndham
+LOCAL FILE: wyndham.jpg
+DIMENSIONS: 1024 x 683 px
+FILE SIZE: 200777 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Hippo's campus
+SOURCE PAGE: https://www.flickr.com/photos/23876767@N00/279024065
+DOWNLOAD URL: https://live.staticflickr.com/120/279024065_3d66a69e1c_b.jpg
+ORIGINAL URL: https://live.staticflickr.com/120/279024065_3d66a69e1c_b.jpg
+AUTHOR: gemsling
+LICENCE: CC BY
+LICENCE URL: https://creativecommons.org/licenses/by/2.0/
+--------------------------------------------------------------------------------
+REGION: Yarra Ranges
+LOCAL FILE: yarra-ranges.jpg
+DIMENSIONS: 1024 x 683 px
+FILE SIZE: 217561 bytes
+SOURCE STATUS: VERIFIED BY UNIQUE DIMENSION MATCH
+IMAGE TITLE: Black Spur, Yarra Ranges NP, Vic, Australia - Diliff
+SOURCE PAGE: https://commons.wikimedia.org/w/index.php?curid=79524755
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/b/b8/Black_Spur%2C_Yarra_Ranges_NP%2C_Vic%2C_Australia_-_Diliff.jpg
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/b/b8/Black_Spur%2C_Yarra_Ranges_NP%2C_Vic%2C_Australia_-_Diliff.jpg
+AUTHOR: Diliff
+LICENCE: CC BY-SA
+LICENCE URL: https://creativecommons.org/licenses/by-sa/4.0/
+--------------------------------------------------------------------------------
+REGION: Yarriambiack
+LOCAL FILE: yarriambiack.jpg
+DIMENSIONS: 1600 x 1200 px
+FILE SIZE: 349095 bytes
+SOURCE STATUS: VERIFIED — REPLACED WITH OPEN-LICENCE IMAGE
+IMAGE TITLE: File:Yarriambiack Creek.JPG
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Yarriambiack_Creek.JPG
+DOWNLOAD URL: https://upload.wikimedia.org/wikipedia/commons/2/28/Yarriambiack_Creek.JPG
+ORIGINAL URL: https://upload.wikimedia.org/wikipedia/commons/2/28/Yarriambiack_Creek.JPG
+AUTHOR: Peterdownunder
+LICENCE: CC BY-SA 3.0
+LICENCE URL: https://creativecommons.org/licenses/by-sa/3.0
+--------------------------------------------------------------------------------

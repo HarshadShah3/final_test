@@ -1,0 +1,13 @@
+{
+  "sourceWorkbook": "Vic_Reg Data Final for Iteration 1.xlsx",
+  "sourceSheet": "LGA_Master_Data",
+  "sourceCompiledDate": "Iteration 1",
+  "auditDate": "2026-09-02",
+  "rowCount": 56,
+  "columnCount": 20,
+  "missingCellCount": 0,
+  "duplicateLgaNameCount": 0,
+  "duplicateCurrentLgaCodeCount": 0,
+  "joinNote": "All 56 CSV LGAs match the existing application profiles by LGA name and verified LGA code. The blank separator column in the exported CSV is ignored.",
+  "sourceStatement": "The supplied Iteration 1 CSV is authoritative for 2025 population, VIF 2021/2026 population, SEIFA, 2025 median house price, September 2025 rent and July 2026 highest-demand occupation. Fields not supplied by this CSV retain their previously integrated reviewed values."
+}

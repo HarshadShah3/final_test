@@ -1,0 +1,81 @@
+lga_code_2021,lga_name_2021,representative_weekday,active_stop_count,weekday_scheduled_stop_calls,weekday_stop_calls_per_active_stop,regional_train_calls,metropolitan_train_calls,tram_calls,bus_calls,regional_coach_calls,regional_bus_calls,interstate_calls,skybus_calls,train_station_count,has_rail_access,direct_southern_cross_service,source_url,license
+LGA20110,Alpine,2026-09-15,15,53,3.5,0,0,0,0,12,41,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20260,Ararat,2026-09-15,77,545,7.1,10,0,0,0,46,489,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20570,Ballarat,2026-09-15,604,18512,30.6,105,0,0,18312,72,23,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20660,Banyule,2026-09-15,581,37073,63.8,0,1385,871,34771,0,0,0,46,9,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20740,Bass Coast,2026-09-15,204,1034,5.1,0,0,0,0,303,731,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20830,Baw Baw,2026-09-15,183,3594,19.6,257,0,0,3261,18,58,0,0,5,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA20910,Bayside (Vic.),2026-09-15,488,23419,48.0,0,1590,1011,20734,0,0,0,84,9,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21010,Benalla,2026-09-15,56,921,16.4,0,0,0,0,40,881,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21110,Boroondara,2026-09-15,705,50407,71.5,0,2303,27753,20351,0,0,0,0,13,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21180,Brimbank,2026-09-15,848,41189,48.6,471,1500,0,39105,39,0,0,74,10,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21270,Buloke,2026-09-15,17,26,1.5,0,0,0,0,24,2,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21370,Campaspe,2026-09-15,99,838,8.5,12,0,0,0,80,746,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21450,Cardinia,2026-09-15,315,7526,23.9,255,730,0,6382,73,86,0,0,10,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21610,Casey,2026-09-15,1354,54314,40.1,2,873,0,53375,64,0,0,0,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21670,Central Goldfields,2026-09-15,97,873,9.0,8,0,0,0,47,818,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21750,Colac Otway,2026-09-15,99,681,6.9,20,0,0,0,36,625,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21830,Corangamite,2026-09-15,7,34,4.9,20,0,0,0,14,0,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA21890,Darebin,2026-09-15,864,55724,64.5,0,2238,13427,40059,0,0,0,0,14,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22110,East Gippsland,2026-09-15,135,692,5.1,6,0,0,0,218,468,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22170,Frankston,2026-09-15,632,25136,39.8,0,699,0,24381,0,0,0,56,4,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22250,Gannawarra,2026-09-15,13,40,3.1,4,0,0,0,26,10,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22310,Glen Eira,2026-09-15,657,39709,60.4,53,2832,12610,24186,0,0,0,28,11,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22410,Glenelg,2026-09-15,74,490,6.6,0,0,0,0,49,441,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22490,Golden Plains,2026-09-15,26,62,2.4,0,0,0,6,44,12,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22620,Greater Bendigo,2026-09-15,728,17690,24.3,137,0,0,17306,53,194,0,0,8,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22670,Greater Dandenong,2026-09-15,752,33438,44.5,53,1496,0,31873,16,0,0,0,6,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22750,Greater Geelong,2026-09-15,1371,48608,35.5,792,0,0,47733,69,0,0,14,8,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22830,Greater Shepparton,2026-09-15,392,4990,12.7,0,0,0,0,202,4788,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22910,Hepburn,2026-09-15,101,729,7.2,8,0,0,576,74,71,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA22980,Hindmarsh,2026-09-15,5,13,2.6,0,0,0,0,13,0,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23110,Hobsons Bay,2026-09-15,454,25390,55.9,0,1662,0,23728,0,0,0,0,10,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23190,Horsham,2026-09-15,130,1438,11.1,0,0,0,0,32,1406,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23270,Hume,2026-09-15,1047,52048,49.7,38,985,0,50039,125,18,0,843,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23350,Indigo,2026-09-15,24,88,3.7,0,0,0,0,32,56,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23430,Kingston (Vic.),2026-09-15,809,35597,44.0,0,2780,0,32705,0,0,0,112,13,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23670,Knox,2026-09-15,792,31673,40.0,0,431,0,31242,0,0,0,0,4,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23810,Latrobe (Vic.),2026-09-15,439,9279,21.1,159,0,0,9029,40,51,0,0,3,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA23940,Loddon,2026-09-15,15,30,2.0,8,0,0,0,22,0,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24130,Macedon Ranges,2026-09-15,142,2477,17.4,297,0,0,0,22,2158,0,0,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24210,Manningham,2026-09-15,631,46484,73.7,0,0,0,46438,0,0,0,46,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24250,Mansfield,2026-09-15,9,23,2.6,0,0,0,0,23,0,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24330,Maribyrnong,2026-09-15,461,34241,74.3,276,1984,5003,26965,13,0,0,0,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24410,Maroondah,2026-09-15,542,23153,42.7,0,775,0,22374,4,0,0,0,5,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24600,Melbourne,2026-09-15,596,108491,182.0,376,8677,67691,31318,196,0,0,233,19,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24650,Melton,2026-09-15,602,22699,37.7,312,146,0,22189,52,0,0,0,5,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24780,Mildura,2026-09-15,357,4018,11.3,0,0,0,0,26,3992,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24850,Mitchell,2026-09-15,167,3475,20.8,0,0,0,2946,529,0,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24900,Moira,2026-09-15,37,134,3.6,0,0,0,0,97,37,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA24970,Monash,2026-09-15,868,54892,63.2,53,1572,0,53267,0,0,0,0,8,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25060,Moonee Valley,2026-09-15,564,40364,71.6,0,1145,11881,27338,0,0,0,0,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25150,Moorabool,2026-09-15,118,2694,22.8,112,0,0,2534,48,0,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25250,Moreland,2026-09-15,797,48831,61.3,0,1840,17800,29189,2,0,0,0,13,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25340,Mornington Peninsula,2026-09-15,683,17821,26.1,0,144,0,17677,0,0,0,0,8,1,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25430,Mount Alexander,2026-09-15,93,475,5.1,45,0,0,0,50,380,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25490,Moyne,2026-09-15,50,234,4.7,0,0,0,0,28,206,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25620,Murrindindi,2026-09-15,66,242,3.7,0,0,0,176,28,38,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25710,Nillumbik,2026-09-15,238,12328,51.8,0,361,0,11967,0,0,0,0,4,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25810,Northern Grampians,2026-09-15,82,670,8.2,0,0,0,0,72,598,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25900,Port Phillip,2026-09-15,381,39341,103.3,0,422,25415,13448,0,0,0,56,2,1,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA25990,Pyrenees,2026-09-15,13,34,2.6,10,0,0,0,12,12,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26080,Queenscliffe,2026-09-15,35,432,12.3,0,0,0,432,0,0,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26170,South Gippsland,2026-09-15,34,184,5.4,0,0,0,0,146,38,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26260,Southern Grampians,2026-09-15,85,637,7.5,0,0,0,0,35,602,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26350,Stonnington,2026-09-15,455,35314,77.6,0,3296,22317,9701,0,0,0,0,15,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26430,Strathbogie,2026-09-15,10,76,7.6,0,0,0,0,68,8,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26490,Surf Coast,2026-09-15,112,2220,19.8,10,0,0,2072,138,0,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26610,Swan Hill,2026-09-15,78,588,7.5,4,0,0,0,62,522,0,0,1,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26670,Towong,2026-09-15,7,12,1.7,0,0,0,0,0,12,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26700,Wangaratta,2026-09-15,132,2162,16.4,0,0,0,0,73,2089,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26730,Warrnambool,2026-09-15,183,3594,19.6,20,0,0,0,16,3558,0,0,2,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26810,Wellington,2026-09-15,127,898,7.1,18,0,0,30,86,764,0,0,3,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26890,West Wimmera,2026-09-15,7,12,1.7,0,0,0,0,4,8,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA26980,Whitehorse,2026-09-15,897,55375,61.7,0,1399,5769,48157,4,0,0,46,6,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27070,Whittlesea,2026-09-15,932,48317,51.8,0,1156,879,46195,87,0,0,0,7,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27170,Wodonga,2026-09-15,110,1701,15.5,0,0,0,0,35,1666,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27260,Wyndham,2026-09-15,991,43602,44.0,385,547,0,42656,0,0,0,14,8,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27350,Yarra,2026-09-15,305,38864,127.4,53,3296,20668,14847,0,0,0,0,10,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27450,Yarra Ranges,2026-09-15,767,21370,27.9,0,522,0,20844,4,0,0,0,5,1,1,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA27630,Yarriambiack,2026-09-15,38,53,1.4,0,0,0,0,42,11,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
+LGA29399,Unincorporated Vic,2026-09-15,1,3,3.0,0,0,0,0,3,0,0,0,0,0,0,https://discover.data.vic.gov.au/dataset/gtfs-schedule,CC BY 4.0
